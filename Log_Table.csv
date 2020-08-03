@@ -1,0 +1,2 @@
+,LogID,Date,PackageName,UserStory,Status,StartingTime,ExecutionTime,ProcessID,Region,SKU,algorithm
+0,1,2020-08-03,Preprocessing,Complete preprocessing flow,Done,14:37:57.444622,94.5314769744873,1,All,All,"ARIMA,Lasso,GradientBoosting,RandomForest,Prophet"
