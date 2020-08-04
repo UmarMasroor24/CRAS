@@ -1,4 +1,5 @@
 import os
+os.system('cmd /c "git remote set-url origin https://github.com/UmarMasroor24/CRAS.git"')
 os.system('cmd /c "git checkout master"')
 os.system('cmd /c "git status"')
 os.system('cmd /c "git add GBOOST"')
