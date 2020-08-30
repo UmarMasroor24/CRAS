@@ -1,0 +1,14 @@
+StatusCode,Module,Userstory,Class,Description
+1.1.1,Preprocessing,train_test_Forecast_split,Warning,This is a warning please look into the train_test_Forecast_split function
+1.1.2,Preprocessing,train_test_split,Error,"Error in train_test_split function, can not proceed before fixing it"
+1.1.3,Preprocessing,train_test_split,Success,Training and Testing data created successfully
+1.2.1.1,Preprocessing,Data Preparation,Warning,This dataset is empty please look into this
+1.2.1.2,Preprocessing,Data Preparation,Warning,There are a lot of null values in the column
+1.2.2,Preprocessing,Data Preparation,Error,"Error in Data_Prep function, can not proceed before fixing it"
+1.2.3,Preprocessing,Data Preparation,Success,Successfully cleaned and prepared data
+1.3.1,,,Warning,
+1.3.2,,,Error,
+1.3.3,,,Success,
+1.4.1,,,Warning,
+1.4.2,,,Error,
+1.4.3,,,Success,

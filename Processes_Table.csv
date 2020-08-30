@@ -1,2 +1,0 @@
-ProcessID,Date,StartingTime,SKU,Region,Models,TrainPeriod,Forecast_Period,Training_Start,Training_End,Prediction_Year,ForecastPeriod
-1,01-Jan,12:00:00 am,All,All,"ARIMA,Lasso,GradientBoosting,RandomForest,Prophet",48,3,2015,2018,2019,3
